@@ -1,5 +1,4 @@
-Aaron Wolen
-===========
+# Aaron Wolen
 
 Born: Florida
 
